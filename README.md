@@ -4,6 +4,8 @@
 ## Description
 Command Line application for managing an employeee database. The user is able to view all employees, all roles, and all departments. They are able to add a new department, role or employee, as well as update an employee's role.
 
+[Submission Video](https://drive.google.com/file/d/12lQibtyK1TSpRQb-FosKJeYDDwe_x_e3/view)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
